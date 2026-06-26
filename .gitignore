@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.agents/
+.codex/
+.vscode/
+.DS_Store
+.env
+.env.*
+node_modules/
